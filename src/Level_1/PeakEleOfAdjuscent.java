@@ -1,3 +1,4 @@
+package Level_1;
 public class PeakEleOfAdjuscent {
     public static void getEle(int[] a) {
         int n = a.length;

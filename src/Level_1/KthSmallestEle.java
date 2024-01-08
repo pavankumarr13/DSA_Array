@@ -1,3 +1,4 @@
+package Level_1;
 public class KthSmallestEle {
     static int element(int[] a, int k) {
         int t = 0;

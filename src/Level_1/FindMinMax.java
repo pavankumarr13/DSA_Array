@@ -1,3 +1,4 @@
+package Level_1;
 public class FindMinMax {
     public static int min(int[]a){
         int n = a.length;

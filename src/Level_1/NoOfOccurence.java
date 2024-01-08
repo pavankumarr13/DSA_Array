@@ -1,3 +1,4 @@
+package Level_1;
 public class NoOfOccurence {
     static int countNumber(int[] arr, int a) {
         int count = 0;
